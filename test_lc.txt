@@ -1,0 +1,56 @@
+Lantul 1:
+war(4) | warfare(1)
+Lantul 2:
+armed(2)
+Lantul 3:
+often(1)
+Lantul 4:
+prolonged(1)
+Lantul 5:
+conflict(2)
+Lantul 6:
+state(1) | commune(1)
+Lantul 7:
+nation(1) | set(1) | group(1)
+Lantul 8:
+other(2)
+Lantul 9:
+extreme(1) | form(1)
+Lantul 10:
+aggression(1)
+Lantul 11:
+social(1)
+Lantul 12:
+disruption(1)
+Lantul 13:
+usually(2)
+Lantul 14:
+high(1)
+Lantul 15:
+mortality(1)
+Lantul 16:
+be(1) | define(1)
+Lantul 17:
+actual(1)
+Lantul 18:
+intentional(1)
+Lantul 19:
+widespread(1)
+Lantul 20:
+political(2)
+Lantul 21:
+therefore(1)
+Lantul 22:
+violence(2)
+Lantul 23:
+technique(1)
+Lantul 24:
+use(1)
+Lantul 25:
+carry(1)
+Lantul 26:
+absence(1)
+Lantul 27:
+call(1)
+Lantul 28:
+peace(1)

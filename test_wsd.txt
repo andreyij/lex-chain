@@ -1,0 +1,43 @@
+war NNP -1 the waging of armed conflict against an enemy; "thousands of people were killed in the war" 973077
+armed JJ -1 (used of persons or the military) characterized by having or bearing arms; "armed robbery" 142407
+often RB -1 many times at short intervals; "we often met over a cup of coffee" 35058
+prolonged JJ -1 relatively long in duration; tediously protracted; "a drawn-out argument"; "an extended discussion"; "a lengthy visit from her mother-in-law"; "a prolonged and bitter struggle"; "protracted negotiations" 1439155
+conflict NN -1 opposition between two simultaneous but incompatible feelings; "he was immobilized by conflict and indecision" 7483439
+state NNS -1 the territory occupied by one of the constituent administrative districts of a nation; "his state is in the deep south" 8654360
+nation NNS -1 the people who live in a nation or country; "a statement that sums up the nation's mood"; "the news was announced to the nation"; "the whole country worshipped him" 8166552
+other JJ -1 not the same one or ones already mentioned or implied; "today isn't any other day"- the White Queen; "the construction of highways and other public works"; "he asked for other employment"; "any other person would tell the truth"; "his other books are still in storage"; "then we looked at the other house"; "hearing was good in his other ear"; "the other sex"; "she lived on the other side of the street from me"; "went in the other direction" 2069355
+extreme NN -1 the furthest or highest degree of something; "he carried it to extremes" 5098099
+aggression NN -1 a disposition to behave aggressively 4658268
+social JJ -1 living together or enjoying life in communities or organized groups; "a human being is a social animal"; "mature social behavior" 2248349
+disruption NN -1 an act of delaying or interrupting the continuity; "it was presented without commercial breaks"; "there was a gap in his account" 383952
+usually RB -1 under normal conditions; "usually she was late" 106921
+high JJ -1 greater than normal in degree or intensity or amount; "a high temperature"; "a high price"; "the high point of his career"; "high risks"; "has high hopes"; "the river is high"; "he has a high opinion of himself" 1210854
+mortality NN -1 the quality or state of being mortal 5055974
+war NNP -1 the waging of armed conflict against an enemy; "thousands of people were killed in the war" 973077
+be VB -1 have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer" 2604760
+actual JJ -1 presently existing in fact and not merely potential or possible; "the predicted temperature and the actual temperature were markedly different"; "actual and imagined conditions" 43765
+intentional JJ -1 characterized by conscious design or purpose; "intentional damage"; "a knowing attempt to defraud"; "a willful waste of time" 1338116
+widespread JJ -1 widely circulated or diffused; "a widespread doctrine"; "widespread fear of nuclear war" 1102876
+armed JJ -1 (used of persons or the military) characterized by having or bearing arms; "armed robbery" 142407
+conflict NN -1 an open clash between two opposing groups (or individuals); "the harder the conflict the more glorious the triumph"--Thomas Paine; "police tried to control the battle between the pro- and anti-abortion mobs" 958896
+political JJ -1 involving or characteristic of politics or parties or politicians; "calling a meeting is a political act in itself"- Daniel Goleman; "political pressure"; "a political machine"; "political office"; "political policy" 1814385
+commune NNS -1 the smallest administrative district of several European countries 8541609
+therefore RB -1 (used to introduce a logical conclusion) from that fact or reason or as a result; "therefore X must be true"; "the eggs were fresh and hence satisfactory"; "we were young and thence optimistic"; "it is late and thus we must go"; "the witness is biased and so cannot be trusted" 43003
+define VBN -1 determine the essential quality of 2611630
+form NN -1 any spatial attributes (especially as defined by outline); "he could barely make out their shapes" 5064037
+political JJ -1 of or relating to your views about social relationships involving authority or power; "political opinions" 2857407
+violence NN -1 an act of aggression (as one against a person who resists); "he may accomplish by craft in the long run what he cannot do by force and violence in the short one" 965404
+set NN -1 (mathematics) an abstract collection of numbers or symbols; "the set of prime numbers is infinite" 7999699
+technique NNS -1 a practical method or art applied to some particular task 5665146
+use VBN -1 put into service; make work or employ for a particular purpose or for its inherent or natural purpose; "use your head!"; "we only use Spanish at home"; "I can't use this tool"; "Apply a magnetic field here"; "This thinking was applied to many projects"; "How do you utilize this tool?"; "I apply this rule to get good results"; "use the plastic bags to store the food"; "He doesn't know how to use a computer" 1158872
+group NN -1 any number of entities (members) considered as a unit 31264
+carry VB -1 move while supporting, either in a vehicle or in one's hands or on one's body; "You must carry your camping gear"; "carry the suitcases to the car"; "This train is carrying nuclear waste"; "These pipes carry waste water into the river" 1449974
+war NN -1 a legal state created by a declaration of war and ended by official declaration during which the international rules of war apply; "war was declared in November but actual fighting did not begin until the following spring" 13981403
+warfare NN -1 an active struggle between competing entities; "a price war"; "a war of wits"; "diplomatic warfare" 1236296
+absence NN -1 the state of being absent; "he was surprised by the absence of any explanation" 13960974
+war NN -1 a concerted campaign to end something that is injurious; "the war on poverty"; "the war against crime" 801125
+other JJ -1 not the same one or ones already mentioned or implied; "today isn't any other day"- the White Queen; "the construction of highways and other public works"; "he asked for other employment"; "any other person would tell the truth"; "his other books are still in storage"; "then we looked at the other house"; "hearing was good in his other ear"; "the other sex"; "she lived on the other side of the street from me"; "went in the other direction" 2069355
+violence NN -1 an act of aggression (as one against a person who resists); "he may accomplish by craft in the long run what he cannot do by force and violence in the short one" 965404
+usually RB -1 under normal conditions; "usually she was late" 106921
+call VBN -1 get or try to get into communication (with someone) by telephone; "I tried to call you all night"; "Take two aspirin and call me in the morning" 789448
+peace NN -1 the state prevailing during the absence of war 13970236
