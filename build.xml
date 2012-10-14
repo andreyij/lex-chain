@@ -11,7 +11,7 @@
 	<path id="pathid">
 		<pathelement location="lib/jwnl.jar" />
 		<pathelement location="lib/commons-logging.jar" />
-		<pathelement location="lib/stanford-postagger-2008-09-28.jar" />
+		<pathelement location="lib/stanford-postagger.jar" />
         <pathelement location="${build.dir}" />
 	</path>
 	
@@ -32,7 +32,7 @@
  <!--           <fileset dir="build"/> -->
             <zipfileset excludes="META-INF/*.SF" src="lib/commons-logging.jar"/>
             <zipfileset excludes="META-INF/*.SF" src="lib/jwnl.jar"/>
-            <zipfileset excludes="META-INF/*.SF" src="lib/stanford-postagger-2008-09-28.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="lib/stanford-postagger.jar"/>
         </jar>
     </target>
 	

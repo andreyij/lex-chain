@@ -1,6 +1,7 @@
 package chatsegmenter.postagger;
 import java.io.BufferedReader;
 import java.io.StringReader;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Vector;
 
@@ -47,13 +48,14 @@ public class POSTagger {
 			System.out.println(text.length());
 
 		int i = 0;
-		List<Sentence<? extends HasWord>> sentences = 
+		List<List<HasWord>> sentences = 
 										MaxentTagger.tokenizeText(new BufferedReader(new StringReader(text)));
-		for (Sentence<? extends HasWord> sentence : sentences) 
+		for (List<HasWord> sentence : sentences) 
 			{
-				Sentence<TaggedWord> tSentence = MaxentTagger.tagSentence(sentence);
+				ArrayList<TaggedWord> tSentence = tagger.tagSentence(sentence);
 				for (int j = 0; j < tSentence.size(); j++)
 					{
+						//System.out.println(tSentence.get(j).beginPosition() + " " + tSentence.get(j).endPosition());
 						UttTaggedWord tw = new UttTaggedWord(tSentence.get(j),-1);
 						if (positions != null && Character.isLetter(tw.tag().charAt(0)) == true
 							&& tw.value().contains("'") == false)
@@ -88,10 +90,10 @@ public class POSTagger {
 			
 			if (ut != null)
 			{
-			List<Sentence<? extends HasWord>> sentences = MaxentTagger.tokenizeText(new BufferedReader(new StringReader(ut.getText())));
-			for (Sentence<? extends HasWord> sentence : sentences) 
+			List<List<HasWord>> sentences = MaxentTagger.tokenizeText(new BufferedReader(new StringReader(ut.getText())));
+			for (List<HasWord> sentence : sentences) 
 				{
-			      Sentence<TaggedWord> tSentence = MaxentTagger.tagSentence(sentence);
+			      ArrayList<TaggedWord> tSentence = tagger.tagSentence(sentence);
 			      for (int j = 0; j < tSentence.size(); j++)
 			      {
 			    	  UttTaggedWord tw = new UttTaggedWord(tSentence.get(j),ut.getUtteranceId());
